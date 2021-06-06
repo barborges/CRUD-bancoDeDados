@@ -1,0 +1,25 @@
+{
+  "name": "CRUD-bancoDeDados",
+  "version": "1.0.0",
+  "description": "Exercício integração do Backend + BD",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barborges/CRUD-bancoDeDados.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barborges/CRUD-bancoDeDados/issues"
+  },
+  "homepage": "https://github.com/barborges/CRUD-bancoDeDados#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
